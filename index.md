@@ -1,8 +1,15 @@
 ---
-title: Welcome to my blog
+title: My first blog
 ---
 
 # My first homepage
+
 ```js
 console.log("Orlando")
 ```
+
+Some lists:
+
+* Orland
+* Fidel
+* Franz
